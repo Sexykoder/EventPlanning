@@ -5,8 +5,8 @@ function Footer() {
     <footer>
     <div className='banner'>
       <div className='title'>
-        <h1>BRIJ's</h1>
-        <p>Events and Weddings</p>
+        <h1>CHANDAN's</h1>
+        <p>From Jail To Bail</p>
       </div>
       <div className='tag'>
         <label>News Letters</label>

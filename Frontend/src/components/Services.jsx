@@ -5,32 +5,32 @@ function Services() {
     {
       id: 1,
       url:"/birthday.jpg",
-      title:"Birthday Planning",
+      title:"Matrimonial and Family Law",
     },
     {
       id: 2,
       url:"/anniversary.jpg",
-      title:"Anniversary Planning",
+      title:"Criminal Defense",
     },
     {
       id: 3,
       url:"/camping.jpg",
-      title:"Camping Trip Planning",
+      title:"Corporate and Business Law",
     },
     {
       id: 4,
       url:"/gamenight.jpg",
-      title:"Game Night Planning",
+      title:"Real Estate Law",
     },
     {
       id: 5,
       url:"/party.jpg",
-      title:"Party Planning",
+      title:"Estate Planning and Probate",
     },
     {
       id: 6,
       url:"/wedding.jpg",
-      title:"Wedding Planning",
+      title:"Personal Injury Law",
     },
   ];
   return (
