@@ -6,13 +6,13 @@ function Navbar() {
   const [show, setShow] = useState(false);
   return (
     <nav>
-      <div className='logo'>CHANDAN</div>
+      <div className='logo'>LEGAL CONNECT</div>
       <div className={show ? "navLinks showmenu" : "navLinks"}>
         <div className='links'>
           <Link to="hero" spy={true} smooth={true} duration={500}>Home</Link>
-          <Link to="services" spy={true} smooth={true} duration={500}>SERVICES</Link>
-          <Link to="about" spy={true} smooth={true} duration={500}>ABOUT</Link>
-          <Link to="contact" spy={true} smooth={true} duration={500}>CONTACT</Link>
+          <Link to="services" spy={true} smooth={true} duration={500}>Service</Link>
+          <Link to="about" spy={true} smooth={true} duration={500}>About</Link>
+          <Link to="contact" spy={true} smooth={true} duration={500}>Contact</Link>
         </div>
       </div>
       <div className='hamburger' onClick={()=> setShow(!show)}>
